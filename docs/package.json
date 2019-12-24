@@ -16,5 +16,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
-  "homepage": "https://vivekvaishnani.github.io/react-clicky-githubio/"
+  "homepage": ""
 }
